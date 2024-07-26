@@ -12,7 +12,7 @@ To install this project, you can simply download the code from github or clone t
   
 ## Usage
 
-To acutally run this project you should use NodeJS to run the javascript file. By doing so, prompts will appear which will ask for the project's information and you call fill those out to get a the readMe generated. Also, note that not all the licenses on Github were included in this readMe generator in the cause the user cannot find the right license. The file will be created and you can use that as your readMe for your project.
+To acutally run this project you should use NodeJS to run the javascript file. By doing so, prompts will appear which will ask for the project's information and you call fill those out to get a the readMe generated. Also, note that not all the licenses on Github were included in this readMe generator in the cause the user cannot find the right license. The file will be created and you can use that as your readMe for your project. Here is the link for the video demo. https://drive.google.com/file/d/1BlBQwwuASJ9uOrUKnB4SVnDPH7pU7mAB/view?usp=sharing
 
 
 ![](/images/ReadMe-Input.png)
